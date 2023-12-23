@@ -5,4 +5,5 @@ commit-1
 commit-2
 commit-3
 final feature in feature-1
+latest hotfix commit
 
